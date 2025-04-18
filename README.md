@@ -1,32 +1,43 @@
+👨‍💻 [Vaibhav]
 
-Hi, I'm Vaibhav!
+🌐 Aspiring Full Stack Developer | Cybersecurity Enthusiast | BCA Student
 
-I'm a passionate Full Stack Developer currently learning FSD.
-Aspiring to crack top companies like Google, Microsoft, and Amazon!
+🚀 Current Focus
 
-🚀 Skills I'm Learning
+🔹 Mastering: C++, Python, Java
+🔹 Learning Path: DSA, Full Stack Development (FSD), Mobile Development, Cybersecurity
 
-HTML, CSS, JavaScript
+🛠 Tech Stack
 
-React, Node.js, MongoDB
+Languages: C++, Python, Java
 
-C++, DSA, Python, Cybersecurity
+Frameworks: React, Node.js, Express.js
 
+Tools: Git, Docker, Kubernetes
 
-📌 Projects
+Databases: MongoDB, MySQL
 
-E-Commerce Website (coming soon)
-
-Personal Portfolio
-
-Task Manager App
+Other Skills: Web Development, App Development
 
 
-📫 Connect with Me
+🌱 What I’m Currently Working On
 
-Instagram (soon)
+🔹 Building secure and scalable full-stack applications.
+🔹 Enhancing my problem-solving skills with Data Structures & Algorithms (DSA).
+🔹 Diving deep into Cybersecurity principles to ensure safe coding practices.
+
+💬 Let’s Collaborate
+
+I’m always open to connecting with other developers and tech enthusiasts. Let’s share ideas and create something impactful together!
+
+🔗 Find me on:
 
 LinkedIn (soon)
+
+Twitter (soon)
+
+Portfolio (soon)
+
 
 
 
