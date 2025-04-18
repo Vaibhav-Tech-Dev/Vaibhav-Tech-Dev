@@ -1,4 +1,34 @@
-## Hi there 👋
+
+Hi, I'm Vaibhav!
+
+I'm a passionate Full Stack Developer currently learning FSD.
+Aspiring to crack top companies like Google, Microsoft, and Amazon!
+
+🚀 Skills I'm Learning
+
+HTML, CSS, JavaScript
+
+React, Node.js, MongoDB
+
+C++, DSA, Python, Cybersecurity
+
+
+📌 Projects
+
+E-Commerce Website (coming soon)
+
+Personal Portfolio
+
+Task Manager App
+
+
+📫 Connect with Me
+
+Instagram (soon)
+
+LinkedIn (soon)
+
+
 
 <!--
 **Vaibhav-Tech-Dev/Vaibhav-Tech-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
